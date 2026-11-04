@@ -8,7 +8,7 @@
 
 ## Structure
 ```
-LRE-IoT-Security/
+IoT-Security/
 │
 ├── main.py
 ├── config.py
